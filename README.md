@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi,<br>I am Vansh Nagpal<br>Computer Science Engineer<br>GGSIPU' 27<br>👨🏻‍💻 Web Developer<br>💡 Tech Enthusiast
+👋 Hi,<br>I am Vansh Nagpal<br>Computer Science Engineer<br>GGSIPU' 27<br>Delhi<br>👨🏻‍💻 Web Developer<br>💡 Tech Enthusiast
 
 
 ## 🌐 Socials:
